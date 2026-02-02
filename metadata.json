@@ -1,0 +1,5 @@
+{
+  "name": "ProTrack Appointment Manager",
+  "description": "A professional appointment management system specifically designed to track subjects from Excel imports, manage follow-ups, reason tracking, and automated communication drafting using AI.",
+  "requestFramePermissions": []
+}
